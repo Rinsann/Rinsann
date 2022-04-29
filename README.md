@@ -1,5 +1,3 @@
-<img align="right" src="https://count.getloli.com/get/@:Rinsann?theme=rule34">
-
 ## 前端工程师—Rin
 
 热爱前端、热爱技术，喜欢参与一些开源项目的讨论。
