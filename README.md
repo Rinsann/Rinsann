@@ -40,6 +40,6 @@
 <br>
 
 > “Don't Repeat Yourself.”
-> -  <<The Pragmatic Programmer>>
+> -  &laquo;The Pragmatic Programmer&raquo;
 
 <br>
