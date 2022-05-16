@@ -39,7 +39,7 @@
 
 <br>
 
-> “Fix the Cause, Not the Symptom.”
-> -  Steve Maguire
+> “Don't Repeat Yourself.”
+> -  <<The Pragmatic Programmer>>
 
 <br>
